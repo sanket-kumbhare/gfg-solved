@@ -37,3 +37,6 @@ You don't need to read input or print anything. Complete the function **leastPri
 
 **Constraints:** <br>
 2<= n <=105
+
+**Difficulty:** <br>
+Easy
