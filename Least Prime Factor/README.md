@@ -1,7 +1,7 @@
 # Least Prime Factor
 Given a number N, find the least prime factors for all numbers from 1 to N.  The least prime factor of an integer X is the smallest prime number that divides it.
 
-**Note :**
+**Note :** <br>
 - 1 needs to be printed for 1.
 - You need to return an array/vector/list of **size N+1** and need to use **1-based indexing** to store the answer for each number.
 
