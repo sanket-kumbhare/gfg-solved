@@ -8,7 +8,9 @@ Given a number N, find the least prime factors for all numbers from 1 to N.  The
 **Example 1:**
 ```
 Input: N = 6
+
 Output: [0, 1, 2, 3, 2, 5, 2] 
+
 Explanation: least prime factor of 1 = 1,
 least prime factor of 2 = 2,
 least prime factor of 3 = 3,
@@ -21,7 +23,9 @@ So answer is[1, 2, 3, 2, 5, 2].
 **Example 2:**
 ```
 Input: N = 4
+
 Output: [0, 1, 2, 3, 2]
+
 Explanation: least prime factor of 1 = 1,
 least prime factor of 2 = 2,
 least prime factor of 3 = 3,
@@ -38,5 +42,4 @@ You don't need to read input or print anything. Complete the function **leastPri
 **Constraints:** <br>
 2<= n <=105
 
-**Difficulty:** <br>
-Easy
+**Difficulty:** Easy 
