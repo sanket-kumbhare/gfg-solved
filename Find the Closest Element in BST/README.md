@@ -18,9 +18,8 @@ K = 13
 Output: 
 2
 
-Explanation: K=13. The node that has
-value nearest to K is 11. so the answer
-is 2
+Explanation: 
+K=13. The node that has value nearest to K is 11. so the answer is 2
 ```
 
 **Example 2:**
@@ -38,19 +37,18 @@ K = 9
 Output: 
 0
 
-Explanation: K=9. The node that has
-value nearest to K is 9. so the answer
-is 0.
+Explanation: 
+K=9. The node that has value nearest to K is 9. so the answer is 0.
 ```
 
 **Your Task:**
 You don't need to read input or print anything. Your task is to complete the function **minDiff()** that takes the root of the BST and an integer K as its input and returns the minimum absolute difference between any node value of the BST and the integer K.
 
-**Expected Time Complexity:** O(Height of the BST).
+**Expected Time Complexity:** O(Height of the BST). <br>
 **Expected Auxiliary Space:** O(Height of the BST).
 
 **Constraints:**
-1 <= Number of nodes <= 105
+1 <= Number of nodes <= 105 <br>
 1 <= Value stored at nodes(data), K <= 105
 
 **Difficulty:** Medium
