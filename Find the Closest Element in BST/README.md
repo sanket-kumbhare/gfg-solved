@@ -19,7 +19,9 @@ Output:
 2
 
 Explanation: 
-K=13. The node that has value nearest to K is 11. so the answer is 2
+K=13. 
+The node that has value nearest to K is 11. 
+so the answer is 2
 ```
 
 **Example 2:**
@@ -38,7 +40,9 @@ Output:
 0
 
 Explanation: 
-K=9. The node that has value nearest to K is 9. so the answer is 0.
+K=9. 
+The node that has value nearest to K is 9. 
+so the answer is 0.
 ```
 
 **Your Task:**
