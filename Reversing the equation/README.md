@@ -26,7 +26,7 @@ Explanation:
 The equation is reversed with numbers remaining the same.
 ```
 
-**Your Task:**
+**Your Task:** <br>
 You don't need to read input or print anything. Your task is to complete the function **reverseEqn()** which takes the string S representing the equation as input and returns the resultant string representing the equation in reverse.
 
 **Expected Time Complexity:** O(|S|).<br>
