@@ -13,7 +13,6 @@ class Solution:
                 
         
         max_freq = max(freq.values())
-        # print(freq, max_freq)
         
         ans = (K + 1) * (max_freq - 1)
         
